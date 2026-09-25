@@ -1,0 +1,17 @@
+Política de Vacaciones - TechCorp
+
+Todos los empleados en relación de dependencia directa de TechCorp tienen derecho a
+días de descanso anual pago, calculados según su antigüedad en la empresa.
+
+Los empleados con menos de 5 años de antigüedad acceden a 14 días corridos de vacaciones
+por año calendario. Los empleados con 5 años o más, y hasta 10 años, acceden a 21 días
+corridos. Los empleados con más de 10 años de antigüedad acceden a 28 días corridos.
+
+Las vacaciones deben solicitarse con un mínimo de 30 días de anticipación a través del
+sistema interno de Recursos Humanos, y quedan sujetas a la aprobación del líder de equipo
+directo. No se acumulan más de 5 días de un período al siguiente, salvo autorización
+expresa de Recursos Humanos por motivos operativos.
+
+Durante el mes de diciembre y la primera quincena de enero, TechCorp aplica un régimen
+especial de guardias mínimas para garantizar la continuidad operativa, por lo que las
+solicitudes de vacaciones en ese período están sujetas a un cupo máximo por equipo.

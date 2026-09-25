@@ -1,0 +1,17 @@
+Política de Teletrabajo - TechCorp
+
+TechCorp adopta un esquema de trabajo híbrido para todas las áreas cuyas funciones no
+requieran presencia física obligatoria. El esquema estándar es de 3 días de trabajo
+remoto y 2 días de trabajo presencial por semana, coordinados con el líder de equipo.
+
+Los empleados deben contar con una conexión a internet estable de al menos 20 Mbps y
+un espacio de trabajo adecuado. TechCorp provee un subsidio mensual para conectividad
+y equipamiento de home office, sujeto a la presentación de comprobantes.
+
+Durante los días de trabajo remoto, se espera que el empleado esté disponible en el
+horario laboral habitual (9 a 18 hs) y responda a las comunicaciones internas dentro
+de un margen razonable. El incumplimiento reiterado de disponibilidad puede derivar en
+la revisión del esquema de teletrabajo asignado.
+
+Las áreas de Soporte Técnico Nivel 1 y Recepción mantienen un esquema 100% presencial
+por la naturaleza de sus funciones.

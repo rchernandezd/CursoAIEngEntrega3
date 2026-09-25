@@ -1,0 +1,18 @@
+Política de Seguridad Informática - TechCorp
+
+Todo empleado con acceso a sistemas internos de TechCorp debe utilizar autenticación
+de dos factores (2FA) en las plataformas corporativas de correo, repositorios de código
+y sistemas de gestión interna, sin excepción.
+
+Las contraseñas deben tener un mínimo de 12 caracteres, combinando mayúsculas,
+minúsculas, números y símbolos, y deben renovarse cada 90 días. Está prohibido
+reutilizar contraseñas de servicios personales en sistemas corporativos.
+
+Ante la sospecha de un incidente de seguridad (phishing, acceso no autorizado, pérdida
+de un dispositivo corporativo), el empleado debe notificar de inmediato al área de
+Seguridad de la Información a través del canal interno de incidentes, dentro de las
+primeras 2 horas de detectado el evento.
+
+El uso de dispositivos personales para acceder a sistemas corporativos (BYOD) requiere
+la instalación previa del perfil de gestión de dispositivos móviles (MDM) provisto por
+el área de IT.
